@@ -1,4 +1,4 @@
-# Improving Deep Learning for HAR with shallow LSTMs (ISWC 21' best-paper award)
+# Improving Deep Learning for HAR with shallow LSTMs (ISWC 21' best-paper award) [PDF](https://www.eti.uni-siegen.de/ubicomp/papers/ubi_iswc2021a.pdf)
 
 This is the official GitHub page of the **best-paper award-winning** publication "Improving Deep Learning for HAR with shallow LSTMs" presented at the International Symposium on Wearable Computers 21' (ISWC 21'). [[cite our work]](#cite)
 
